@@ -1,0 +1,24 @@
+{
+  "source": "/Users/t.nemchinova/Desktop/2/222/222 4/GradientInstallView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "%lld%%",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 92
+        }
+      },
+      {
+        "comment": "",
+        "key": "Устанавливаем защищенное\nсоединение. Нажимайте в разных\nчастях экрана",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 119
+        }
+      }
+    ]
+  },
+  "version": 1
+}

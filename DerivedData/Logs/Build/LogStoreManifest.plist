@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>12</integer>
+	<key>logs</key>
+	<dict>
+		<key>24F5277A-E6ED-4CA0-99EE-BAF65D650282</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>24F5277A-E6ED-4CA0-99EE-BAF65D650282.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>222 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>222</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project 222 with scheme 222 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>802740170.08345199</real>
+			<key>timeStoppedRecording</key>
+			<real>802740173.32585096</real>
+			<key>title</key>
+			<string>Building project 222 with scheme 222 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>24F5277A-E6ED-4CA0-99EE-BAF65D650282</string>
+		</dict>
+		<key>3B5B842F-7720-4905-8401-AB15E1C992EB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B5B842F-7720-4905-8401-AB15E1C992EB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>222 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>222</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project 222 with scheme 222 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>802740235.457708</real>
+			<key>timeStoppedRecording</key>
+			<real>802740237.08595002</real>
+			<key>title</key>
+			<string>Building project 222 with scheme 222 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3B5B842F-7720-4905-8401-AB15E1C992EB</string>
+		</dict>
+		<key>92063505-DD80-44BB-8261-6E030A2D6CC2</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>92063505-DD80-44BB-8261-6E030A2D6CC2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>222 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>222</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project 222 with scheme 222 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>802740076.154544</real>
+			<key>timeStoppedRecording</key>
+			<real>802740077.879475</real>
+			<key>title</key>
+			<string>Building project 222 with scheme 222 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>92063505-DD80-44BB-8261-6E030A2D6CC2</string>
+		</dict>
+		<key>CCF8E93F-CCD5-4C3E-AC76-89502E469BAB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>CCF8E93F-CCD5-4C3E-AC76-89502E469BAB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>222 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>222</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project 222 with scheme 222 and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>802740578.56935298</real>
+			<key>timeStoppedRecording</key>
+			<real>802740581.63491201</real>
+			<key>title</key>
+			<string>Building project 222 with scheme 222 and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>CCF8E93F-CCD5-4C3E-AC76-89502E469BAB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

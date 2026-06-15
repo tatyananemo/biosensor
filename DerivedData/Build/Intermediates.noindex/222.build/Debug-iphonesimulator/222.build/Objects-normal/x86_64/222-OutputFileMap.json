@@ -1,0 +1,39 @@
+{
+  "" : {
+    "diagnostics" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/222-primary.dia",
+    "emit-module-dependencies" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/222-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/222-primary-emit-module.dia",
+    "pch" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/222-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/222-primary.swiftdeps"
+  },
+  "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/t.nemchinova/Desktop/2/222/222 4/GradientInstallView.swift" : {
+    "const-values" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GradientInstallView.swiftconstvalues",
+    "dependencies" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GradientInstallView.d",
+    "diagnostics" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GradientInstallView.dia",
+    "index-unit-output-path" : "/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GradientInstallView.o",
+    "llvm-bc" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GradientInstallView.bc",
+    "object" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GradientInstallView.o",
+    "swift-dependencies" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GradientInstallView.swiftdeps",
+    "swiftmodule" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/GradientInstallView~partial.swiftmodule"
+  },
+  "/Users/t.nemchinova/Desktop/2/222/222 4/_22App.swift" : {
+    "const-values" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/_22App.swiftconstvalues",
+    "dependencies" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/_22App.d",
+    "diagnostics" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/_22App.dia",
+    "index-unit-output-path" : "/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/_22App.o",
+    "llvm-bc" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/_22App.bc",
+    "object" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/_22App.o",
+    "swift-dependencies" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/_22App.swiftdeps",
+    "swiftmodule" : "/Users/t.nemchinova/Desktop/2/222/222 4/DerivedData/Build/Intermediates.noindex/222.build/Debug-iphonesimulator/222.build/Objects-normal/x86_64/_22App~partial.swiftmodule"
+  }
+}
